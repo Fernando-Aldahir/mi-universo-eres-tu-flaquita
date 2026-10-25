@@ -1,0 +1,9 @@
+PARA ABRIR EL UNIVERSO DE FLAQUITA 💜
+
+1. Descomprime el archivo ZIP completo. No muevas index.html fuera de la carpeta.
+2. Debe quedarse la carpeta assets junto a index.html. Dentro de assets están las 7 fotos y cancion.mp3.
+3. La página usa Three.js desde internet, así que necesitas conexión.
+4. IMPORTANTE: no abras index.html con doble clic (file://), porque el navegador puede bloquear los módulos y recursos. Abre la carpeta en Visual Studio Code e inicia la extensión Live Server: clic derecho en index.html > Open with Live Server.
+5. Pulsa “Nuestra canción” para iniciar la música. Pulsa las fotos que orbitan para abrir sus mensajes.
+
+Si no tienes Visual Studio Code, instala la extensión Live Server en VS Code (es gratis).
